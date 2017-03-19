@@ -1,0 +1,4 @@
+  - Pourquoi le chomage est-il considéré comme une mauvaise chose.
+    - le droit de chômer et de profiter de la vie
+  - Le problème en ce moment, c'est peut-être le succès du capitaliste. Pendant plusieurs centaines d'années, voir des millénaires, le but de l'économie était de parvenir à produire assez pur faire vivre tout le monde. C'est sur que dans ce contexte, la croissance est un objectif légitime et primordial! Sauf que là, on a toute une quincaillerie, des beaux moteurs, des ordis qui sont de véritables bombes et même des robots qui commence à nous remplacer pour faire le sale boulot. Maintenant, on va pas devenir fou et tout bousiller pour une idée passé date. On va devoir faire un update de notre façon d'organiser la société et de distribuer les ressources.
+  - Pourquoi ne pas considérer des indices de bonheur plutôt de des indices de croissance.
