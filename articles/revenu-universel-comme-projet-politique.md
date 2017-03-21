@@ -42,6 +42,6 @@ Si cette idée vous interpelle, parlez-en aux gens autour de vous. Le revenu uni
 
 *Remerciment à Cindy Mercier, Jeanne Darwin et Thomas-Vincent Boucher-Saint-Amour pour leurs remarques, commentaires et critiques à propos de cette rédaction.*
 
-*texte source: https://github.com/jvtrudel/reflexion-collective/tree/master/articles/revenu-universel-comme-projet-molitique.md*
+*texte source: https://github.com/jvtrudel/reflexion-collective/tree/master/articles/revenu-universel-comme-projet-politique.md*
 
 *License: [WTFPL](http://www.wtfpl.net/)*
