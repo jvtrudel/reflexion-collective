@@ -1,4 +1,4 @@
-# Autonomie des teckys et collaboration au sein de l'appareil d'état Québécois
+# Pour passer de bon à excellent: Autonomie des teckys et collaboration au sein de l'appareil d'état Québécois
 
 Ça deux jours que ce sujet me tourne dans la tête: *quelle politique du numérique pourrait permettre d'améliorer la qualitée de vie des Québécois?* En fait, ça fait pas mal plus longtemps que la question me passionne, mais quand j'ai écouté [l'entrevue de Mme Anglade à la Sphère](http://ici.radio-canada.ca/premiere/emissions/la-sphere/episodes/377081/audio-fil-du-samedi-18-mars-2017), j'ai compris que ça ne sera certainement pas les libéraux qui vont nous permettre d'obtenir le plus pour notre argent côté informatique.
 
