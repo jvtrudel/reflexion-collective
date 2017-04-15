@@ -1,5 +1,5 @@
 ------------------
-titre: Pratiquer la démocratie à l'ère de numérique: la délibération asynchrone en temps réel
+titre: Pratiquer la démocratie à l'ère du numérique: la délibération asynchrone en temps réel
 auteurs: Jérémy Viau-Trudel
 influenceurs: ""
 abstract: " "
@@ -39,7 +39,7 @@ En effet, la dynamique du parlement est intéressante parce qu’elle permet de 
 
 ## Et le numérique dans tout ça?
 
-Pourquoi avoir intitulé cet article *Pratiquer la démocratie à l'ère de numérique*? Et bien, il me semble que l'utilisation plus intelligente et ouverte des outils de communication numérique permet de combiner les deux options actuelles pour nous offrir une troisième voie! Celle de la délibération asynchrone en temps réel.
+Pourquoi avoir intitulé cet article *Pratiquer la démocratie à l'ère de numérique*? Et bien, il me semble que l'utilisation plus intelligente et ouverte des outils de communication numérique pourrait permettre de combiner les deux options actuelles pour nous offrir une troisième voie! Celle de la délibération asynchrone en temps réel.
 
 Quoi?! Ok, c'est peut-être un peu geek comme jargon... Mais en résumé, ça veut dire qu'on pourrait imaginer un scénario en x étapes:    
   - on délibère localement pour convenir d'une position à défendre,
