@@ -5,7 +5,7 @@ influenceurs: ""
 abstract: " "
 ------------------
 
-# Dépouiller le citoyen de sa citoyenneté
+# Le citoyen dépouillé de sa citoyenneté
 
 La démocratie est actuellement dans un cul-de-sac et l'insatisfaction envers nos mécanismes imparfaits de prise de décisions collectives fait largement consensus.  Ainsi, le citoyen, sa compétence en matière de délibération et de décision, tout comme sa légitimité en tant qu'acteur politique ne sont plus valorisés. On ne parle plus de citoyen, mais bien de public cible, de payeurs de taxe ou de clientèle des services gouvernementaux.
 
