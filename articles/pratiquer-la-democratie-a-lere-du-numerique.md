@@ -11,7 +11,7 @@ La démocratie est actuellement dans un cul-de-sac et l'insatisfaction envers no
 
 Actuellement, vos préoccupations ont peu d'importance et vous vous retrouvez bâillonnés - grâce au contrôle total des sphères de pouvoir - par une élite éclairée composée d'un amalgame douteux de hauts fonctionnaires technocrates, d'élus pseudo-représentatifs indépendants, de gestionnaires appliquant la gouvernance, d'experts-conseils techno-scientifiques et de lobby capitalistes hyper-branchés sur l'appareil de l'état, seuls capables de nous permettre de survivre dans la jungle du marché mondialisé.
 
-Vous vous préoccupez de la santé de vos proches? On ne vous écoutera pas ce que vous avez à dire. Nos institutions actuelles étant incapable ni de comprendre la valeur, ni d'utiliser à bon escient: votre vécu, votre expérience en tant qu'utilisateur des services de santé ou vos aspirations à un système de santé équitable, efficace et respectueux.
+Vous vous préoccupez de la santé de vos proches? On n'écoutera pas ce que vous avez à dire. Nos institutions actuelles étant incapable ni de comprendre la valeur, ni d'utiliser à bon escient: votre vécu, votre expérience en tant qu'utilisateur des services de santé ou vos aspirations à un système de santé équitable, efficace et respectueux.
 
 Malheureusement, ces considérations émanant de la société civile sont jugées sans valeur dans l'élaboration de politiques. Par conséquent, le simple citoyen n'a aucun poids face aux pressions d'un lobby médical, aux menaces d'institutions financières et à l'humeur d'un Gaétan Barette.
 
