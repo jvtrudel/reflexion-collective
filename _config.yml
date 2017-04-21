@@ -1,4 +1,3 @@
 theme: bloggy-sunday
 
-exclude:
-- readme.md
+exclude: readme.md
