@@ -1,2 +1,4 @@
 htmls
 production/
+_site
+Gemfile.lock
