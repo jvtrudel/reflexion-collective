@@ -1,4 +1,4 @@
-theme: bloggy-sunday
+theme: jekyll-theme-minimal
 
 exclude: [ readme.md ]
 
