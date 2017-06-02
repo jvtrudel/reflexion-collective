@@ -1,4 +1,5 @@
-theme: bloggy-sunday
+
+theme: jekyll-swiss
 
 exclude: [ readme.md ]
 
