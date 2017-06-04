@@ -1,6 +1,10 @@
 
 theme: jekyll-theme-minimal
 
+title:   'Réflexions Collectives'
+author:
+  name: 'Jérémy Viau-Trudel'
+
 exclude: [ readme.md ]
 
 permalink: pretty
