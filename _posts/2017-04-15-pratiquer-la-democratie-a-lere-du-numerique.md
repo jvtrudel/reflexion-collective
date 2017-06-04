@@ -1,6 +1,7 @@
 ------------------
 titre: Pratiquer la démocratie à l'ère du numérique: la délibération asynchrone en temps réel
 auteurs: Jérémy Viau-Trudel
+layout: page
 influenceurs: ""
 abstract: " "
 ------------------
