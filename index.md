@@ -1,10 +1,9 @@
 ---
 layout: default
-title: "Réflexions Collectives"
 ---
 
-# Réflexions Collectives
 
-Ceci est un blogue collaboratif. Cool!
 
-*La politique moderne est avant tout une affaire de réflexion et de prise de décision collective plutôt qu'une lutte de pouvoir.* – Jérémy Viau Trudel
+Ceci est un blogue collaboratif à saveur sociale, politique et scientifique. N'hésitez pas à proposez vos textes [via github](https://github.com/jvtrudel/reflexion-collective), faire des corrections ou soulever des problèmes/proposition via les [*Issues*](https://github.com/jvtrudel/reflexion-collective/issues).   
+
+*La politique de demain ne sera plus une lutte de pouvoir, mais une affaire de réflexion et de prise de décision collective.* – Jérémy Viau Trudel
