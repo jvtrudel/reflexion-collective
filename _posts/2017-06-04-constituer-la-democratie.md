@@ -1,6 +1,6 @@
 ---
 title: Constituer la démocratie
-
+layout: page
 ---
 
 Rouvrir la constitution comme le propose Philippe Couillard est une occasion en or de revendiquer une réelle démocratie. Refonder la légitimité de nos institutions en mettant la souveraineté des citoyens et la réel expression de son pouvoir devrait être l'enjeux principal de cette démarche.
