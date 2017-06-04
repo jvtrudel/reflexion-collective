@@ -1,5 +1,5 @@
 
-theme: jekyll-swiss
+theme: jekyll-minimal-theme
 
 exclude: [ readme.md ]
 
