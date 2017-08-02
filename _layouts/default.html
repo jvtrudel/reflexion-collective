@@ -21,14 +21,14 @@
       <section>
 
 
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
 
         <h2> <a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt }}</p>
     {% endfor %}
 
       </section>
-      
+
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
