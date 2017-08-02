@@ -1,14 +1,15 @@
 ---
-title: Pratiquer la démocratie à l'ère du numérique: la délibération asynchrone en temps réel
-auteurs: Jérémy Viau-Trudel
 layout: page
-influenceurs: ""
-abstract: " "
+title: >
+   Pratiquer la démocratie à l'ère du numérique: la délibération asynchrone en temps réel
+auteurs: Jérémy Viau-Trudel
 ---
 
-# Le citoyen dépouillé de sa citoyenneté
+
 
 La démocratie est actuellement dans un cul-de-sac et l'insatisfaction envers nos mécanismes imparfaits de prise de décisions collectives fait largement consensus.  Ainsi, le citoyen, sa compétence en matière de délibération et de décision, tout comme sa légitimité en tant qu'acteur politique ne sont plus valorisés. On ne parle plus de citoyen, mais bien de public cible, de payeurs de taxe ou de clientèle des services gouvernementaux.
+
+## Le citoyen dépouillé de sa citoyenneté
 
 Actuellement, vos préoccupations ont peu d'importance et vous vous retrouvez bâillonnés - grâce au contrôle total des sphères de pouvoir - par une élite éclairée composée d'un amalgame douteux de hauts fonctionnaires technocrates, d'élus pseudo-représentatifs indépendants, de gestionnaires appliquant la gouvernance, d'experts-conseils techno-scientifiques et de lobby capitalistes hyper-branchés sur l'appareil de l'état, seuls capables de nous permettre de survivre dans la jungle du marché mondialisé.
 
@@ -16,7 +17,7 @@ Vous vous préoccupez de la santé de vos proches? On n'écoutera pas ce que vou
 
 Malheureusement, ces considérations émanant de la société civile sont jugées sans valeur dans l'élaboration de politiques. Par conséquent, le simple citoyen n'a aucun poids face aux pressions d'un lobby médical, aux menaces d'institutions financières et à l'humeur d'un Gaétan Barette.
 
-# Rétablir le sens de la démocratie
+## Rétablir le sens de la démocratie
 
 Mais quel est donc le rôle de l'état? Et quel devrait être le rapport entre état et citoyens? Pour tuer le cynisme ambiant qui nous paralyse et nous confine dans le *statu quo* actuel, il est essentiel de répondre à ces deux questions.
 
@@ -28,7 +29,7 @@ Car à la base du pouvoir démocratique, n'y a-t-il pas le pouvoir, au moins th�
 
 Or, est-ce vraiment ce que nous voulons, ce à quoi nous aspirons? N'avoir comme pouvoir réel la possibilité de donner notre voix politique à des menteurs, sans paroles qui se foutent complètement de nous et ne souhaites que monter en grade dans les réseaux douteux de l'influence politico-économique?
 
-# La nécessité des outils numériques de délibération et de prise de décision collective
+## La nécessité des outils numériques de délibération et de prise de décision collective
 
 Ce long détour m'amène à un constat troublant sur les possibilités actuelles de la démocratie représentative. Il y a une tension entre pouvoirs locaux (par exemple votre député) et les regroupements à plus grande échelle (son travail au gouvernement).
 
