@@ -3,7 +3,7 @@ title: Prisonniers de la sphère privée
 layout: page
 ---
 
-On a tendance à voir l'état comme un monstre méchant, un abuseur dont il faut se méfier. Et ce n'est pas tout à fait faux; gouvernements d'ici et d'ailleurs ont des squelettes dans le placard qu'ils aimeraient bien nous faire oublier. Par conséquent, une des *solutions* qu'ont trouvé les citoyens pour se protéger consiste à créer une sphère privée forte, inviolable par l'état. Et si ce réflexe naturel n'était plus efficace? Le replis sur soi n'est-il pas en train de nous faire perdre les avancées de la démocratie que nous prenons pour acquises?
+On a tendance à voir l'état comme un monstre méchant, un abuseur dont il faut se méfier. Et ce n'est pas tout à fait faux; gouvernements d'ici et d'ailleurs ont des squelettes dans le placard qu'ils aimeraient bien nous faire oublier. Par conséquent, une des *solutions* qu'ont trouvées les citoyens pour se protéger consiste à créer une sphère privée forte, inviolable par l'état. Et si ce réflexe naturel n'était plus efficace? Le replis sur soi n'est-il pas en train de nous faire perdre les avancées de la démocratie que nous prenons pour acquises?
 
 ## L'idéal démocratique
 
