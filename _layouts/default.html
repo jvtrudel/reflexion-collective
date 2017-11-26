@@ -18,10 +18,7 @@
         <p><blockquote>{{site.slogan}}<b> - {{site.author.name}}</b></blockquote> </p>
       </header>
       <section>
-
-
     {% for post in site.posts %}
-
         <h2> <a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt }}</p>
     {% endfor %}
