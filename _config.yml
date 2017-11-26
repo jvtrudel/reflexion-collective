@@ -9,7 +9,7 @@ description: >
 slogan: >
   Le politique n'est pas une lutte de pouvoir, mais une réflexion et une prise de décision collective.
 
-exclude: [ readme.md, commentaires, articles, production]
+exclude: [  readme.md, commentaires, articles, production, Gemfile, .gitignore, vendor]
 
 url: http://reflexion-collective.jvtrudel.com
 
