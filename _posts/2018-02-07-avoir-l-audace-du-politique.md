@@ -1,0 +1,16 @@
+---
+layout: page
+title: >
+   Avoir l'audace du politique
+auteurs: Jérémy Viau-Trudel
+---
+
+C'est à l'heure des grands périls que l'on reconnait la force des caractères. Et les impératifs de changement ne manquent pas par les temps qui courent. Nécessité de revoir en profondeur nos modes de vie et de consommation en raison de la réalité climatique. Pressions pour repenser l'organisation des villes, en pleine mutation, qui veulent s'émanciper du contrôle provincial pour pouvoir offrir un meilleur cadre de vie et un réel lieu de citoyenneté. Urgence de réorganiser le monde du travail pour permettre à tous s'émanciper et de combler leurs besoins matériels malgré les progrès technologique et la concurence des esclaves d'outre-mer. Sans compter non plus les problèmes "classiques" que nous ne sommes pas encore parvenu à juguler: pollution, pauvreté, détresse psychologique, violence, corruption. Ouf... ça sera pas de la petite bière tout ça! 
+
+Quand tout risque de s'écrouler, se serrer les coudes n'est pas une option. C'est dans ces moments que notre aptitude à s'entraider et à se soutenir mutuellement peu faire la différence entre la vie et la mort. Mais la tentation du populiste est bien réelle et elle nous incite à écouter les désespérés, ceux qui n'ont plus d'espoir et qui incarnent notre pulsion de mort collective.
+
+Heureusement, c'est aussi dans ces moments qu'émergent les vrais leaders. Celles et ceux qui osent. Celles et ceux qui n'ont pas peur de s'élever malgré les difficultés et sont prêts à offrir le meilleur d'eux-mêmes pour le bien de leur communauté. En ce sens, ce qui se passe actuellement à Québec Solidaire dans les circonscriptions de Taschereau et de Jean-Lesage est tout à fait extraordinaire! Deux groupes politiques des plus dynamiques et rafraichissant que l'on ait vu depuis un bon moment à Québec convergent pour concrétiser leurs utopies. La vigeur des deux courses à l'investiture entre Catherine Dorion et Marie-Ève Deschesne, puis Sébastien Bouchard et Sol Zanetti,  nous redonnent l'espoir que quelque chose de constructif pourra encore émerger de la politique. 
+
+Les deux formations étaient pourtant ennemies il n'y a pas encore si longtemps. L'une, ON, avait choisie avec Jean-Martin Aussant de déserter le PQ plutôt que d'abandonner avec ses rêves d'un meilleur système politique pour le Québec. L'autre, QS, avait conclu avec Amir Kahdir et Françoise David que le citoyens devaient investir l'arène politique pour préserver le bien commun. Deux visions qui ne sont pas tout à fait identiques, mais qui, au fond, sont tous deux d'honnêtes efforts pour arriver à résoudre les défis auxquels nous devrons faire face ensembles. 
+
+Ces deux groupes ont eu l'audace de faire ce choix difficiles. Et ils nous offrent présentement une leçon de courage en se livrant bataille pour faire vivre la démocratie. Reste à savoir comment nous réagirons, si Québec s'enfoncera encore plus profond dans la haine et le délire identitaire avec les radios poubelle ou s'il reste encore des gens qui auront l'audace d'embrasser l'action politique pour la survie de notre communauté.
