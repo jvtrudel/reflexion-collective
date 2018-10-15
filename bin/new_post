@@ -4,7 +4,7 @@
 name=$1
 
 # Normanisation de quelques caractères dérangeants
-
+# TODO: il existe probablement un autre moyen plus efficace et plus général (ex. conversion vers ainsi ou remplacer tout les caractères qui ne sont pas des lettres ainsi)
 ename="${name// /-}"
 ename="${ename/,/-}"
 ename="${ename/;/-}"
