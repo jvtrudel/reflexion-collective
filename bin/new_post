@@ -5,17 +5,25 @@ name=$1
 ename="${name/ /-}"
 
 
-git squash
-git checkout gh-pages
-git checkout -b $ename
+
 
 d=$(date +%Y-%m-%d)
-filename=_pots/$d-$ename.md
+filename=_posts/$d-$ename.md
 
 if [ -f $filename ];then
   echo "file $filename exists"
 	exit 1
 fi
+
+if [ "$(git rev-parse --verify $ename)" != "" ]; then
+  echo "branch $ename already exists"
+	exit 1
+fi
+
+git stash
+git checkout gh-pages
+git checkout -b $ename
+
 
 iname="${name/-/ }"
 iname="${iname/_/ }"
@@ -23,4 +31,4 @@ iname="${iname/_/ }"
 echo "---" >  $filename
 echo "title: $iname" >> $filename
 echo "layout: page" >> $filename
-echo "---" >> $filename"
+echo "---" >> $filename
