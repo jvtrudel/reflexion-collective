@@ -1,0 +1,26 @@
+#! /usr/bin/env bash
+
+
+name=$1
+ename="${name/ /-}"
+
+
+git squash
+git checkout gh-pages
+git checkout -b $ename
+
+d=$(date +%Y-%m-%d)
+filename=_pots/$d-$ename.md
+
+if [ -f $filename ];then
+  echo "file $filename exists"
+	exit 1
+fi
+
+iname="${name/-/ }"
+iname="${iname/_/ }"
+
+echo "---" >  $filename
+echo "title: $iname" >> $filename
+echo "layout: page" >> $filename
+echo "---" >> $filename"
