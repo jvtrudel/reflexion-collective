@@ -19,13 +19,6 @@ ename="${ename/ù/u}"
 ename="${ename/\'/-}"
 ename="${ename/\"/-}"
 
-
-
-echo $ename
-exit 0
-
-
-
 d=$(date +%Y-%m-%d)
 filename=_posts/$d-$ename.md
 
