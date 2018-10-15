@@ -2,12 +2,27 @@
 
 
 name=$1
-ename="${name/ /-}"
+
+# Normanisation de quelques caractères dérangeants
+
+ename="${name// /-}"
 ename="${ename/,/-}"
 ename="${ename/;/-}"
 ename="${ename/!/-}"
 ename="${ename/./-}"
+ename="${ename/é/e}"
+ename="${ename/ê/e}"
+ename="${ename/è/e}"
+ename="${ename/à/a}"
+ename="${ename/ç/c}"
+ename="${ename/ù/u}"
+ename="${ename/'/-}"
+ename="${ename/\"/-}"
 
+
+
+echo $ename
+exit 0
 
 
 
