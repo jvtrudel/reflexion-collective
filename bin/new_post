@@ -16,7 +16,7 @@ ename="${ename/è/e}"
 ename="${ename/à/a}"
 ename="${ename/ç/c}"
 ename="${ename/ù/u}"
-ename="${ename/'/-}"
+ename="${ename/\'/-}"
 ename="${ename/\"/-}"
 
 
