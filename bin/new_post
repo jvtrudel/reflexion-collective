@@ -3,6 +3,10 @@
 
 name=$1
 ename="${name/ /-}"
+ename="${ename/,/-}"
+ename="${ename/;/-}"
+ename="${ename/!/-}"
+ename="${ename/./-}"
 
 
 
