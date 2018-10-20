@@ -17,10 +17,18 @@ plan:
   - Améliorer la démocratie du parti en augmentant la participation active des membres et en développant les instances régionalements serait une façon de faire intéressante
 ---
 
-Pour les Solidaires, le 1er octobre dernier a été une soirées électorales des plus bizarres: un mélange de dégout devant le triomphe de la CAQ et d'exaltation face aux gains importants de Québec Solidaire. Comment se réjouir de l'effondrement du PQ qui a porté la modernisation du Québec et forgé nos institutions sociales? Comment se réjouir que le PLQ ait été remplacé par un gouvernement qui a lui aussi l'ambition de mettre fin à notre modèle social? Oui, le paysage politique qui s'annonce pour les prochaines années n'a rien de réjouissant. Mais il ne faudrait pas bouder notre plaisir, d'autant plus que la magnifique victoire de Québec Solidaire porte en elle tout ce dont nous avons besoin pour relever les défis qui nous attendent.
+Pour les Solidaires, le 1er octobre dernier a été une soirées électorales des plus bizarres: un mélange de dégoût devant le triomphe de la CAQ et d'exaltation face aux gains importants de Québec Solidaire. Le malaise est compréhensible. Comment se réjouir de l'effondrement du PQ qui a porté la modernisation du Québec et forgé les institutions sociales dont nous bénéficions encore aujourd'hui? Comment se réjouir que le PLQ, un parti qui a sabrer dans notre régime de protection des citoyens, ait été remplacé par la CAQ, un autre parti qui n'a nullement l'intention de changer de cap et de mettre un terme aux politiques néolibérales?  Oui, le paysage politique des prochaines années n'a rien de réjouissant. Cela dit, il ne faudrait pas bouder notre plaisir. Québec Solidaire a eu une magnifique victoire qui porte en elle tout ce dont nous avons besoin pour relever les défis qui nous attendent.
 
 
-# Le poid politique de QS
+# Attraction et force de frappe
+
+La forte progression de QS au dernier scrutin n'est pas le fruit du hasard. Sur le terrain durant toute la campagne, je me suis souvent dit que nous avions déjà gagné, peu importe le résultat dans l'urne. Bien sûr c'était un peu une réthorique pour se motiver et se redonner du courage dans les moments parfois plus difficile, mais outre cela c'était aussi une vérité évidente qui sautait aux yeux. La présence terrain du parti et, surtout, le dynamisme inspirant se dégageait de notre organisation ont été les ingrédients clefs de cette victoire.
+
+Pour QS, il y aura une ère pré et post élections 2018. Si avant on pouvait se permette de dénigrer et de marginaliser nos positions, ça n'est définitivement plus possible. Certes, l'effondrement du PQ nous facilite la tâche, mais déjà en campagne nous avons vécu cette transition. Alors que les médias parlaient timidement (dans le meilleur des cas) de nos propositions et toujours de manière à souligner le sois disant caractère irréaliste, les échos terrains étaient tout autre. Vraiment j'ai été frappé de sentir autant d'intérêt envers nos idée, pour une fois... enfin!
+
+Il faut dire que l'articulation du discours proposé par les équipes communication était très efficace et ont visés juste. Des mesures concrètent, qui parlent au gens comme le salaire minimum ou la gratuité des soins dentaire. Mais toujours en s'attaquant aux causes systématiques (augmentation des inégalités, mauvaises répartition des richesses/ressources) et en les inscrivant dans un plan d'ensemble, un projet de société cohérent, ambition certes, mais nécessaire pour solutioner les grands problèmes de société actuelles.
+
+
 
 Au cours des derniers mois, nous avons fait le plein de nouveaux membres et de militants. L'enthousiasme que nous avons tous vécu, et ce partout au Québec, a grandi au même rythme que grandissait la sympathie de milliers de personnes envers QS. Même si tous ne sont pas passé à l'action et n'ont pas voté pour nous, nul ne peut nier que QS comme une option sérieusement envisageable, crédible et une option qui permet défendre les intérêts du Québec, des québécois et des québécoises.
 
