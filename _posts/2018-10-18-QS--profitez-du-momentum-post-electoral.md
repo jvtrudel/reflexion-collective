@@ -54,3 +54,18 @@ Or, ce surcroit d'énergie est déjà là en réserve.
 # Faire vivre la démocratie pour maintenir et faire grandir nos forces
 
 La démocratie n'est généralement pas un sujet très sexy de nos jours. Pourtant, il fût un époque où c'était le sujet de l'heure. Nous bénéficions aujourd'hui des avancées faites lors des révolutions françaises et avons enfin droit à un scrutin universel.  
+
+
+
+---------- réécriture
+
+À l’approche du début de la première session parlementaire sous un gouvernement caquiste, le milieu progressiste québécois est inquiet. Certes, la croissance de Québec Solidaire est très encourageante et permet d’espérer que les intérêts des citoyens seront bien défendus par ce parti. Cependant, la réalité de notre régime parlementaire, où le pouvoir est centralisé et laisse peu de place à l’opposition, il y a peu d’espoir d’avoir un réel leadership gouvernemental en matière d’environnement, un enjeu pourtant incontournable à l’heure actuelle.
+
+Malgré la difficulté de faire face à un gouvernement dont on ignore comment il va se comporter et quels seront les mesures qu’il compte mettre à l’agenda de l’actualité politique, une chose est claire: il faudra bien plus que dix députés pour parvenir à stopper la machine de François Legault. Heureusement, Québec Solidaire nous a bien montré durant la dernière élection que cette organisation a atteint un poid politique et un degré de maturité organisationnel suffisant pour constituer une force politique de premier plan. Pour concrétiser ce potentiel cependant, il faudra continuer de développer la démocratie participative au sein du parti: une caractéristique qui distingue Québec Solidaire et pourrait changer radicalement la manière dont se pratique la politique au Québec.
+
+Des urnes à la rue
+
+Depuis sa fondation, Québec Solidaire a prétendu être un parti « de la rue et des urnes». Même si l’expression est assez caricaturale et qu’il est assez naïf de croire qu’un parti représente réellement les «classes populaires», l’idée a été très justement appliquée en permettant à ses membres de constituer un large consensus autour des valeurs importantes du parti et de bâtir collectivement le programme du parti. 
+Au terme de ce processus de démocratie qui n’a pas toujours été bien compris par le grand public et les médias, on peut dire que le parti a atteint une belle maturité au cours de la dernière élection avec un
+
+ 
