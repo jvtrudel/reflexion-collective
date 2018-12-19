@@ -2,3 +2,5 @@ htmls
 production/
 _site
 Gemfile.lock
+.sass-cache
+bin/publish
